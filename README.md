@@ -231,7 +231,6 @@ Copyright (c) 2018 Yangkai.Shen
     <guava.version>28.1-jre</guava.version>
     <user.agent.version>1.20</user.agent.version>
   </properties>
-
   <repositories>
     <repository>
       <id>aliyun</id>
@@ -245,7 +244,7 @@ Copyright (c) 2018 Yangkai.Shen
       </snapshots>
     </repository>
   </repositories>
-
+  
   <dependencyManagement>
     <dependencies>
       <dependency>
